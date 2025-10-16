@@ -149,7 +149,7 @@ python code.py
 
 **Giedrius Lukoševičius**  
 🎓 Vilnius University – Information Systems Engineering  
-📧 [https://www.linkedin.com/in/giedrius-it-dev/](LinkedIn)
+📧 [LinkedIn]([LinkedIn](https://www.linkedin.com/in/giedrius-it-dev/))
 
 ---
 
