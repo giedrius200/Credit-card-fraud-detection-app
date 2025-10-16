@@ -144,7 +144,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Add Streamlit web version  
 - Include model saving/loading and dataset preprocessing tools  
 - Enhance visual theme and metric dashboards  
-
----
-
-⭐ *If you found this project useful, consider starring the repo or sharing feedback!*
