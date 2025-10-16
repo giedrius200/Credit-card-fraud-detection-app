@@ -153,11 +153,6 @@ python code.py
 
 ---
 
-## 🪪 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💡 Future Improvements
 
 - Add real-time detection API (FastAPI backend)  
