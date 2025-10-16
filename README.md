@@ -161,5 +161,3 @@ python code.py
 - Enhance visual theme and metric dashboards  
 
 ---
-
-⭐ *If you found this project useful, consider starring the repo or sharing feedback!*
