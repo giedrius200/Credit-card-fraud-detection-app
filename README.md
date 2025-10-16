@@ -53,7 +53,6 @@ The app allows users to:
 fraud_detection_app/
 ├── code.py   # Main application file
 ├── data/                   # (Optional) place CSV files here
-├── outputs/                # Confusion matrices, SHAP plots, reports
 ├── requirements.txt
 └── README.md
 ```
