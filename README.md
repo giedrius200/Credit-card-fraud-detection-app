@@ -31,7 +31,7 @@ The app allows users to:
 ✅ SHAP value visualization for feature importance  
 ✅ Confusion Matrix and evaluation metrics display  
 ✅ MLP parameter experiments and exportable results  
-✅ Threaded execution for smooth UI performance  
+✅ Threaded execution
 
 ---
 
@@ -51,7 +51,7 @@ The app allows users to:
 
 ```
 fraud_detection_app/
-├── kodas_naujas5_copy.py   # Main application file
+├── code.py   # Main application file
 ├── data/                   # (Optional) place CSV files here
 ├── outputs/                # Confusion matrices, SHAP plots, reports
 ├── requirements.txt
@@ -101,7 +101,7 @@ shap
 
 Run the application:
 ```bash
-python kodas_naujas5_copy.py
+python code.py
 ```
 
 1. Click **“Pasirinkti CSV failą”** to load your dataset  
