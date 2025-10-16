@@ -31,7 +31,7 @@ The app allows users to:
 ✅ SHAP value visualization for feature importance  
 ✅ Confusion Matrix and evaluation metrics display  
 ✅ MLP parameter experiments and exportable results  
-✅ Threaded execution
+✅ Threaded execution for smooth UI performance  
 
 ---
 
@@ -47,12 +47,33 @@ The app allows users to:
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Credit Card Fraud Detection** dataset from Kaggle:  
+👉 [Download from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+Once downloaded:
+1. Extract `creditcard.csv`
+2. Place it inside the `data/` folder in this project:
+   ```
+   fraud_detection_app/
+   └── data/
+       ├── sample_train.csv
+       └── sample_predict.csv
+   ```
+
+The `data/` folder includes **sample datasets** for both training and prediction —  
+these are based on the **imbalanced credit card fraud dataset** and are intended for demonstration purposes only.
+
+---
+
 ## 🗂️ Project Structure
 
 ```
 fraud_detection_app/
-├── code.py   # Main application file
-├── data/                   # (Optional) place CSV files here
+├── code.py                # Main application file
+├── data/                  # Sample datasets for training/prediction
+├── outputs/               # Confusion matrices, SHAP plots, reports
 ├── requirements.txt
 └── README.md
 ```
@@ -128,7 +149,7 @@ python code.py
 
 **Giedrius Lukoševičius**  
 🎓 Vilnius University – Information Systems Engineering  
-📧 [https://www.linkedin.com/in/giedrius-it-dev/]
+📧 [https://www.linkedin.com/in/giedrius-it-dev/](LinkedIn)
 
 ---
 
@@ -143,3 +164,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Add Streamlit web version  
 - Include model saving/loading and dataset preprocessing tools  
 - Enhance visual theme and metric dashboards  
+
+---
+
+⭐ *If you found this project useful, consider starring the repo or sharing feedback!*
