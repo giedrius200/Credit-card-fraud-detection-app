@@ -1,8 +1,7 @@
 # 💳 Credit Card Fraud Detection App (Tkinter + Machine Learning)
 
 An interactive desktop application for **credit card fraud detection** built in Python using **Tkinter** for GUI and **machine learning models** for classification.  
-Developed as part of my **Information Systems Engineering Bachelor's Thesis at Vilnius University**, this project combines data analysis, model training, visualization, and explainability (via SHAP) — all inside a single user-friendly interface.
-
+Developed as part of my **Information Systems Engineering Bachelor's Thesis at Vilnius University**, this project combines data analysis, model training, visualization, and explainability (via SHAP)
 ---
 
 ## 🧠 Overview
